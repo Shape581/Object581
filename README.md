@@ -1,6 +1,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Object581/total)
 
-# :package:・Object581 V1.0.0
+# :package:・Object581
 
 ### :mag:・Information
 
