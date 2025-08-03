@@ -1,4 +1,4 @@
-![GitHub all releases](https://img.shields.io/github/downloads/Shape581/GreyCard581/total)
+![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Object581/total)
 
 # :package:・Object581
 
