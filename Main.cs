@@ -64,7 +64,7 @@ namespace Object581
                     var element = query.FirstOrDefault();
                     if (player.account.adminLevel > 0)
                         if (element.BlockedForStaff == false)
-                            return;
+                            continue;
                     player.setup.inventory.RemoveItem(item.itemId, item.number, true);
                     remove = true;
                 }
@@ -199,3 +199,4 @@ namespace Object581
         }
     }
 }
+
